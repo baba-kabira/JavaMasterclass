@@ -22,7 +22,7 @@
         System.out.println("2 - 1 = " + result);
 
         // +=
-        // result = result * 2;
+        // result = result - 2;
         result += 2; // 1 + 2 = 3
         System.out.println("1 + 2 = " + result);
 
